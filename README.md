@@ -1,4 +1,4 @@
-# Data_Minin_SJSU
+# Data_Mining_SJSU
 
 For my first Homework I implemented PCA and I used it for a data I retrieved from 
 
