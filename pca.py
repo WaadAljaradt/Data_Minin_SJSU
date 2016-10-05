@@ -7,8 +7,8 @@ import numpy.linalg as LA
 #
 array = np.loadtxt('data.txt',delimiter=',', usecols=range(0,14))
 
-# remove the last column in the data which are class labels
-data= array[:,:-1]
+# remove the first column in the data which are class labels
+data= array[:,1:]
 
 
 # first : standardize the data by centering the variables :
