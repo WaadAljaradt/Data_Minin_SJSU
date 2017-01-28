@@ -2,7 +2,5 @@
 
 For my first Homework I implemented PCA (Principle Component Analysis ) and I used it for a data I retrieved from 
 
-the data is from the UCR Wine dataset, found at https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data 
+ the UCR Wine dataset, found at https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data 
 
-
-The logic is very simple to follow
